@@ -1,0 +1,176 @@
+[2023-12-19 20:21:18,668]  WARN {cps.config_sql:352} Log path /config/calibre-web.log not valid, falling back to default
+[2023-12-19 20:21:18,738]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 20:21:18,745]  WARN {cps.config_sql:388} invalidating configuration
+[2023-12-19 20:21:18,745]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 20:21:19,430]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-19 20:21:19,430]  INFO {cps:177} Starting Calibre Web...
+[2023-12-19 20:21:21,626]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-19 20:21:24,244]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-19 20:21:24,266]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-19 20:21:24,722]  INFO {cps.ub:911} github Blueprint Created
+[2023-12-19 20:21:24,739]  INFO {cps.ub:911} google Blueprint Created
+[2023-12-19 20:21:30,670]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-19 20:49:36,395]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 20:49:36,397]  WARN {cps.config_sql:388} invalidating configuration
+[2023-12-19 20:49:36,397]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 20:49:36,860]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-19 20:49:36,860]  INFO {cps:177} Starting Calibre Web...
+[2023-12-19 20:49:38,453]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-19 20:49:40,250]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-19 20:49:40,251]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-19 20:49:44,129]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-19 20:58:25,398] ERROR {cps.admin:1864} DB Location is not Valid, Please Enter Correct Path
+[2023-12-19 20:58:25,399]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 20:58:49,419] ERROR {cps.admin:1864} DB Location is not Valid, Please Enter Correct Path
+[2023-12-19 20:58:49,419]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:16:53,469]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-19 21:16:53,470]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-19 21:16:53,470]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-19 21:20:29,103]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:20:29,105]  WARN {cps.config_sql:388} invalidating configuration
+[2023-12-19 21:20:29,105]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:20:29,140]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-19 21:20:29,140]  INFO {cps:177} Starting Calibre Web...
+[2023-12-19 21:20:29,475]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-19 21:20:29,706]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-19 21:20:29,708]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-19 21:20:31,372]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-19 21:26:22,429] ERROR {cps.admin:1864} DB Location is not Valid, Please Enter Correct Path
+[2023-12-19 21:26:22,430]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:27:15,700]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-19 21:27:15,701]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-19 21:27:16,705]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-19 21:29:32,049]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:29:32,051]  WARN {cps.config_sql:388} invalidating configuration
+[2023-12-19 21:29:32,051]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:29:32,086]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-19 21:29:32,086]  INFO {cps:177} Starting Calibre Web...
+[2023-12-19 21:29:32,418]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-19 21:29:32,649]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-19 21:29:32,650]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-19 21:29:34,322]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-19 21:29:59,793]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:29:59,815]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:30:03,468]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:30:08,608]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-19 21:30:19,493]  INFO {cps.shelf:339} Shelf test created
+[2023-12-19 21:31:01,637]  INFO {cps.shelf:339} Shelf test-2 created
+[2023-12-19 21:31:52,822]  INFO {cps.web:1207} Serving book: TheNewStack ABlueprintforSupply - Desconocido
+[2023-12-19 21:31:59,770]  INFO {cps.web:1207} Serving book: Quick Start Guide - John Schember
+[2023-12-20 04:10:00,001]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-12-20 04:10:00 UTC)" (scheduled at 2023-12-20 04:10:00+00:00)
+[2023-12-20 04:10:00,002]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-12-21 04:10:00 UTC)" executed successfully
+[2023-12-20 19:58:33,690]  INFO {cps.admin:1500} Update status requested
+[2023-12-20 20:01:54,172]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 20:01:54,174]  INFO {cps.server:284} webserver stop (restart=True)
+[2023-12-20 20:01:54,175]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-20 20:01:55,181]  INFO {cps.server:265} Performing restart of Calibre-Web
+[2023-12-20 20:01:56,093]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 20:01:56,127]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-20 20:01:56,127]  INFO {cps:177} Starting Calibre Web...
+[2023-12-20 20:01:56,471]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-20 20:01:56,706]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-20 20:01:56,707]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 20:01:58,329]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-20 20:33:03,858]  INFO {scholarly:96} Getting https://scholar.google.com/scholar?hl=en&q=TheNewStack_UseCasesForKubernetes&as_vis=0&as_sdt=0,33
+[2023-12-20 20:33:04,679] ERROR {cps.metadata_provider.amazon:129} 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=TheNewStack_UseCasesForKubernetes&i=digital-text&sprefix=TheNewStack_UseCasesForKubernetes%2Cdigital-text&ref=nb_sb_noss
+[2023-12-20 20:33:05,855]  INFO {httpx:1013} HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=TheNewStack_UseCasesForKubernetes&as_vis=0&as_sdt=0,33 "HTTP/1.1 200 OK"
+[2023-12-20 20:33:29,185]  INFO {scholarly:96} Getting https://scholar.google.com/scholar?hl=en&q=Use%20Cases%20For%20Kubernetes&as_vis=0&as_sdt=0,33
+[2023-12-20 20:33:29,904] ERROR {cps.metadata_provider.amazon:129} 503 Server Error: Service Unavailable for url: https://www.amazon.com/s?k=Use+Cases+For+Kubernetes&i=digital-text&sprefix=Use+Cases+For+Kubernetes%2Cdigital-text&ref=nb_sb_noss
+[2023-12-20 20:33:30,445]  INFO {httpx:1013} HTTP Request: GET https://scholar.google.com/scholar?hl=en&q=Use%20Cases%20For%20Kubernetes&as_vis=0&as_sdt=0,33 "HTTP/1.1 200 OK"
+[2023-12-20 20:56:39,861]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 20:58:34,140]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 20:58:34,144]  INFO {cps.server:284} webserver stop (restart=True)
+[2023-12-20 20:58:34,144]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-20 20:58:35,151]  INFO {cps.server:265} Performing restart of Calibre-Web
+[2023-12-20 20:58:36,045]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 20:58:36,078]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-20 20:58:36,078]  INFO {cps:177} Starting Calibre Web...
+[2023-12-20 20:58:36,417]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-20 20:58:36,654]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-20 20:58:36,655]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 20:58:38,315]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-20 20:59:43,579]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:00:05,421]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:07:55,744]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:07:55,747]  INFO {cps.server:284} webserver stop (restart=True)
+[2023-12-20 21:07:55,747]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-20 21:07:56,752]  INFO {cps.server:265} Performing restart of Calibre-Web
+[2023-12-20 21:07:57,646]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:07:57,684]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-20 21:07:57,685]  INFO {cps:177} Starting Calibre Web...
+[2023-12-20 21:07:58,029]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-20 21:07:58,262]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-20 21:07:58,263]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 21:07:59,918]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-20 21:13:41,508]  INFO {cps.editbooks:323} converting: book id: 3 from: PDF to: EPUB
+[2023-12-20 21:13:41,517]  INFO {cps.tasks.convert:142} Book id 3 - target format of .epub does not exist. Moving forward with convert.
+[2023-12-20 21:30:50,994]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:32:28,927]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:33:26,724]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:33:37,688]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:34:45,719]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:34:45,724]  INFO {apscheduler.scheduler:895} Added job "delete superfluous book covers" to job store "default"
+[2023-12-20 21:34:45,725]  INFO {apscheduler.scheduler:895} Added job "generate book covers" to job store "default"
+[2023-12-20 21:34:45,725]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 21:34:50,325]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:34:50,331]  INFO {apscheduler.scheduler:895} Added job "delete superfluous book covers" to job store "default"
+[2023-12-20 21:34:50,331]  INFO {apscheduler.scheduler:895} Added job "generate book covers" to job store "default"
+[2023-12-20 21:34:50,331]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 21:35:04,496]  WARN {cps.admin:154} reconnecting to calibre database
+[2023-12-20 21:36:24,555]  INFO {cps.web:1207} Serving book: TheNewStack_GuideToCloudNativeDevOps - Unknown
+[2023-12-20 21:40:03,200]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:40:03,202]  INFO {cps.server:284} webserver stop (restart=True)
+[2023-12-20 21:40:03,203]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-20 21:40:04,209]  INFO {cps.server:265} Performing restart of Calibre-Web
+[2023-12-20 21:40:05,114]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-20 21:40:05,148]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-20 21:40:05,148]  INFO {cps:177} Starting Calibre Web...
+[2023-12-20 21:40:05,497]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-20 21:40:05,738]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-20 21:40:05,739]  INFO {apscheduler.scheduler:895} Added job "delete superfluous book covers" to job store "default"
+[2023-12-20 21:40:05,739]  INFO {apscheduler.scheduler:895} Added job "generate book covers" to job store "default"
+[2023-12-20 21:40:05,740]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-20 21:40:07,367]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-21 04:00:00,001]  INFO {apscheduler.executors.default:123} Running job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-21 04:00:00 UTC)" (scheduled at 2023-12-21 04:00:00+00:00)
+[2023-12-21 04:00:00,002]  INFO {apscheduler.executors.default:123} Running job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-21 04:00:00 UTC)" (scheduled at 2023-12-21 04:00:00+00:00)
+[2023-12-21 04:00:00,007]  INFO {apscheduler.executors.default:144} Job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-22 04:00:00 UTC)" executed successfully
+[2023-12-21 04:00:00,012]  INFO {apscheduler.executors.default:144} Job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-22 04:00:00 UTC)" executed successfully
+[2023-12-21 04:30:00,001]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-22 04:30:00 UTC)" (scheduled at 2023-12-21 04:30:00+00:00)
+[2023-12-21 04:30:00,002]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-22 04:30:00 UTC)" executed successfully
+[2023-12-22 04:00:00,001]  INFO {apscheduler.executors.default:123} Running job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-23 04:00:00 UTC)" (scheduled at 2023-12-22 04:00:00+00:00)
+[2023-12-22 04:00:00,002]  INFO {apscheduler.executors.default:123} Running job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-23 04:00:00 UTC)" (scheduled at 2023-12-22 04:00:00+00:00)
+[2023-12-22 04:00:00,004]  INFO {apscheduler.executors.default:144} Job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-23 04:00:00 UTC)" executed successfully
+[2023-12-22 04:00:00,005]  INFO {apscheduler.executors.default:144} Job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-23 04:00:00 UTC)" executed successfully
+[2023-12-22 04:30:00,001]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-23 04:30:00 UTC)" (scheduled at 2023-12-22 04:30:00+00:00)
+[2023-12-22 04:30:00,001]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-23 04:30:00 UTC)" executed successfully
+[2023-12-23 04:00:00,002]  INFO {apscheduler.executors.default:123} Running job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-24 04:00:00 UTC)" (scheduled at 2023-12-23 04:00:00+00:00)
+[2023-12-23 04:00:00,002]  INFO {apscheduler.executors.default:123} Running job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-24 04:00:00 UTC)" (scheduled at 2023-12-23 04:00:00+00:00)
+[2023-12-23 04:00:00,005]  INFO {apscheduler.executors.default:144} Job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-24 04:00:00 UTC)" executed successfully
+[2023-12-23 04:00:00,006]  INFO {apscheduler.executors.default:144} Job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-24 04:00:00 UTC)" executed successfully
+[2023-12-23 04:30:00,001]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-24 04:30:00 UTC)" (scheduled at 2023-12-23 04:30:00+00:00)
+[2023-12-23 04:30:00,001]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-24 04:30:00 UTC)" executed successfully
+[2023-12-24 04:00:00,300]  INFO {apscheduler.executors.default:123} Running job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-25 04:00:00 UTC)" (scheduled at 2023-12-24 04:00:00+00:00)
+[2023-12-24 04:00:00,300]  INFO {apscheduler.executors.default:123} Running job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-25 04:00:00 UTC)" (scheduled at 2023-12-24 04:00:00+00:00)
+[2023-12-24 04:00:00,304]  INFO {apscheduler.executors.default:144} Job "delete superfluous book covers (trigger: cron[hour='4'], next run at: 2023-12-25 04:00:00 UTC)" executed successfully
+[2023-12-24 04:00:00,305]  INFO {apscheduler.executors.default:144} Job "generate book covers (trigger: cron[hour='4'], next run at: 2023-12-25 04:00:00 UTC)" executed successfully
+[2023-12-24 04:30:00,001]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-25 04:30:00 UTC)" (scheduled at 2023-12-24 04:30:00+00:00)
+[2023-12-24 04:30:00,001]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='30'], next run at: 2023-12-25 04:30:00 UTC)" executed successfully
+[2023-12-24 12:02:42,633]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-24 12:02:42,634]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-24 12:02:42,635]  INFO {cps.server:262} Performing shutdown of Calibre-Web
