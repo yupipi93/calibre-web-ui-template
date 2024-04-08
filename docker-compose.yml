@@ -12,9 +12,23 @@ services:
     volumes:
       - config:/config
       #- books:/books
-      - /mnt/Raid6/shared-folder/books/calibre_library:/books
+      - /mnt/Raid6/shared-folder/books/calibre_library:/books:rw
     ports:
       - 8083:8083
+    restart: always
+
+  autossh:
+    container_name: calibre-autossh
+    image: alpine
+    volumes:
+      - ~/.ssh:/root/.ssh:rw # Asegúrate de tener tu clave SSH aquí
+    environment:
+      - AUTOSSH_GATETIME=0
+      - AUTOSSH_LOGLEVEL=7 # Ajusta según necesites ver más o menos logs
+    command: >
+      /bin/sh -c "
+      apk add --no-cache autossh &&
+      autossh -M 0 -o 'ServerAliveInterval 30' -o 'ServerAliveCountMax 3' -o 'StrictHostKeyChecking=no' -i /root/.ssh/id_ed25519  -N -R 8083:192.168.0.125:8083 quantumpc@bastion.sixpidevs.com"
     restart: always
 
 volumes:
