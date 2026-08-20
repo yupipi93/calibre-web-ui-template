@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="266" viewBox="0 0 1200 266" role="img">
+<rect x="0.5" y="0.5" width="1199" height="265" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<line x1="36" y1="98" x2="1164" y2="98" stroke="#1f2328" stroke-width="2"/>
+<text x="36" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1f2328" font-weight="bold" text-anchor="start">Before you deploy this</text>
+<text x="36" y="116" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606a" font-weight="normal" text-anchor="start">Three values in the compose file are environment-specific — and one is a credential path.</text>
+<rect x="36" y="146" width="196" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="50" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">LIBRARY PATH</text>
+<text x="50" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">your Calibre library</text>
+<rect x="244" y="146" width="170.8" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="258" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">TUNNEL TARGET</text>
+<text x="258" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">your bastion host</text>
+<rect x="426.8" y="146" width="137.2" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="440.8" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">SSH KEY MOUNT</text>
+<text x="440.8" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">~/.ssh</text>
+<rect x="576" y="146" width="103.6" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="590" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">IMAGE TAG</text>
+<text x="590" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">pin it</text>
+<text x="36" y="230" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#57606a" font-weight="normal" text-anchor="start">The autossh sidecar mounts your SSH agent directory into an alpine container: read it before you run it</text>
+</svg>

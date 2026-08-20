@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="354" viewBox="0 0 1200 354" role="img">
+<rect x="0.5" y="0.5" width="1199" height="353" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<line x1="36" y1="98" x2="1164" y2="98" stroke="#1f2328" stroke-width="2"/>
+<text x="36" y="76" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#1f2328" font-weight="bold" text-anchor="start">calibre-web-ui-template</text>
+<text x="36" y="116" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#57606a" font-weight="normal" text-anchor="start">Calibre-Web over an existing Calibre library, plus an optional reverse SSH tunnel.</text>
+<rect x="36" y="146" width="288.4" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="50" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">IMAGE</text>
+<text x="50" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">lscr.io/linuxserver/calibre-web</text>
+<rect x="336.4" y="146" width="78.4" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="350.4" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">WEB UI</text>
+<text x="350.4" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">8083</text>
+<rect x="426.8" y="146" width="170.8" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="440.8" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">MODS</text>
+<text x="440.8" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">universal-calibre</text>
+<rect x="609.6" y="146" width="112" height="56" rx="8" fill="#ffffff" stroke="#d8dee4"/>
+<text x="623.6" y="167" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10" fill="#57606a" font-weight="normal" text-anchor="start">LIBRARY</text>
+<text x="623.6" y="188" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#1f2328" font-weight="bold" text-anchor="start">bind mount</text>
+<rect x="36" y="232" width="240" height="58" rx="10" fill="#ffffff" stroke="#8c4a2f" stroke-width="1.5"/>
+<text x="156" y="267" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#1f2328" font-weight="normal" text-anchor="middle">Reader</text>
+<line x1="282" y1="261" x2="300" y2="261" stroke="#8c4a2f" stroke-width="1.5"/>
+<polygon points="300,256 300,266 309,261" fill="#8c4a2f"/>
+<rect x="310" y="232" width="240" height="58" rx="10" fill="#ffffff" stroke="#8c4a2f" stroke-width="1.5"/>
+<text x="430" y="267" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#1f2328" font-weight="normal" text-anchor="middle">calibre-web :8083</text>
+<line x1="556" y1="261" x2="574" y2="261" stroke="#8c4a2f" stroke-width="1.5"/>
+<polygon points="574,256 574,266 583,261" fill="#8c4a2f"/>
+<rect x="584" y="232" width="240" height="58" rx="10" fill="#ffffff" stroke="#8c4a2f" stroke-width="1.5"/>
+<text x="704" y="267" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#1f2328" font-weight="normal" text-anchor="middle">library volume</text>
+<text x="36" y="318" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#57606a" font-weight="normal" text-anchor="start">Read from docker-compose.yml on 2026-08-20</text>
+</svg>
