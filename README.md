@@ -49,7 +49,7 @@ anyone else. Point Calibre-Web at `/books` when it asks for the library location
 | The library bind mount (`…:/books`) | It points at the author's library path. Yours will differ |
 | The `autossh` command | It contains a specific bastion host, user and LAN address. **Delete the whole sidecar if you do not need remote access** |
 | The `~/.ssh` mount | The sidecar mounts your SSH directory into an `alpine` container that installs a package at runtime. Prefer a dedicated key with a forced command, mounted read-only, over your everyday keys |
-| `image: …:latest` | Pin a tag so a `docker compose pull` is a decision, not a surprise |
+| The base tag in `calibre-web/Dockerfile` | `calibre-web` is built locally on a pinned linuxserver tag, with kepubify rebuilt on a current Go and Python packages raised past calibre-web's own pins. To update: raise the tag, `docker compose build calibre-web`, then `up -d` |
 | `TZ`, `PUID`, `PGID` | Timezone, and the user that owns the library files |
 
 ## Notes
